@@ -1,1 +1,1 @@
- pytweb: gunicorn 'web.wsgi'
+web: gunicorn 'name-of-application.wsgi'
