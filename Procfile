@@ -1,1 +1,1 @@
- pytweb: gunicorn 'mysite.wsgi'
+ pytweb: gunicorn 'web.wsgi'
